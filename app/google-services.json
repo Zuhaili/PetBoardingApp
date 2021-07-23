@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "767028574382",
+    "project_id": "c302-firebase-2d548",
+    "storage_bucket": "c302-firebase-2d548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767028574382:android:c71b7dbccd6a6254b7d53f",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.id19004781.c302_ps10_firebasetodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767028574382-8qkhoegis1j22cntavt30okb33efmnnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzMPc2mj8PN8y8UhvtlmI6-rjuzNAr2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767028574382-8qkhoegis1j22cntavt30okb33efmnnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767028574382:android:188752a2fb5e43deb7d53f",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.id19004781.c302firebasehelloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767028574382-8qkhoegis1j22cntavt30okb33efmnnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzMPc2mj8PN8y8UhvtlmI6-rjuzNAr2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767028574382-8qkhoegis1j22cntavt30okb33efmnnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767028574382:android:fa904ac6223e24c9b7d53f",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.id19004781.petboardingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767028574382-8qkhoegis1j22cntavt30okb33efmnnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzMPc2mj8PN8y8UhvtlmI6-rjuzNAr2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767028574382-8qkhoegis1j22cntavt30okb33efmnnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
